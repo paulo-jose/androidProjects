@@ -1,0 +1,15 @@
+Website público
+O website da empresa é uma das formas mais visíveis, acessíveis e valiosas de se comunicar com clientes atuais e potenciais. Hospedar seu site na nuvem da AWS é rápido, fácil e econômico.
+
+Leia os guias de conceitos básicos da nuvem da Amazon Web Services »
+Aplicativo online
+Aplicativos conectados sustentam a Internet moderna. A Amazon Web Services oferece a hospedagem e os serviços de que você precisa para fazer do seu aplicativo um sucesso on-line.
+
+Saiba mais sobre o uso da nuvem da AWS para hospedar seu aplicativo »
+Site de intranet
+Os sites de negócios internos ajudam a compartilhar informações dentro da organização e auxiliam na colaboração, enquanto mantêm as informações protegidas de quem está fora da sua organização.
+
+Saiba mais sobre como tornar a AWS parte da sua
+infraestrutura existente »
+Aplicativos móveis
+Muitos aplicativos móveis dependem de servidores baseados na nuvem atuando nos bastidores para entregar as informações que os torna tão úteis.  A AWS hospeda sites móveis e back-ends móveis, para que você possa manter o foco no seu aplicativo.

@@ -1,0 +1,11 @@
+Funcionamento[editar | editar código-fonte]
+Sua computação em nuvem é definida como uma combinação de software como serviço[3] (SaaS) com computação em grelha.
+A computação em grelha dá o poder de computação e alta escalabilidade oferecida para as aplicações, através de milhares de máquinas (hardware) disponíveis em centros de processamento de dados de última geração. De software como serviço se tem a capacidade de contratar um serviço e pagar somente pelo uso, permitindo a redução de custos operacionais, com uma configuração de infraestrutura realmente mais aderente às necessidades[carece de fontes].
+Recursos[editar | editar código-fonte]
+Além dos recursos de computação, armazenamento e administração oferecidos pelo Microsoft Azure, a plataforma também disponibiliza uma série de serviços para a construção de aplicações distribuídas, além da total integração com a solução on-premise (local) baseada em plataforma .NET. Entre os principais serviços da plataforma Windows Azure há o SQL Azure Database, Azure AppFabric Platform e uma API de gerenciamento e monitoração para aplicações colocadas na nuvem.
+Distribuição[editar | editar código-fonte]
+O Microsoft Azure entrou em produção em 1 de Janeiro de 2010 e sua fase comercial está no ar desde 1 de Fevereiro de 2010. Na primeira onda de lançamentos, 21 países foram atendidos.
+Até meados de março de 2010, os seguintes datacenters estavam disponíveis para deployment de solução sobre o Microsoft Azure:
+Europe: West Europe e North Europe
+Asia Pacific: East Asia e Southeast Asia
+North America: South Central US, North Central US, East US, West US

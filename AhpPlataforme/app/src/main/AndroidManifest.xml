@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.paulo.ahpplataforme">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".view.Celula" />
+        <activity android:name=".view.TelaLista" />
+        <activity android:name=".view.TelaGrafico"
+                  android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name=".view.TelaInicial"
+            android:label="@string/title_activity_tela_inicial"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".view.ItemLista" />
+        <activity android:name=".view.ItemListaAlternativa" />
+        <activity android:name=".view.ListViewAlternativas" />
+        <activity android:name=".view.TelaAddAlternativa" />
+        <activity android:name=".view.ListViewCriterio" />
+        <activity android:name=".view.TelaAddCriterio" />
+        <activity android:name=".view.TelaAddPeso" />
+        <activity android:name=".view.ListViewAlternativaCriterio" />
+        <activity android:name=".view.ListViewCriterioAlternativa" />
+    </application>
+
+</manifest>

@@ -1,0 +1,22 @@
+O que é IBM Bluemix?
+Implementação da arquitetura de nuvem aberta da IBM baseada no projeto Cloud Foundry
+IBM® Bluemix é a oferta de nuvem mais recente da IBM. IBM Bluemix é uma oferta de plataforma como serviço (PaaS) baseada em um projeto de código aberto de Cloud Foundry que promete oferecer funções e serviços em nível empresarial fáceis de integrar aos aplicativos da nuvem. Este documento proporciona uma visão geral do IBM Bluemix e Cloud Foundry e a diferença entre ambos. Também enumera os serviços de IBM Bluemix.
+0 Comentários
+Angel Tomala-Reyes, Senior Software Engineer, IBM
+06/Mai/2014
+expand
+Índice
+Angel Tomala-Reyes em Cloud Foundry e IBM Bluemix
+Video: Angel Tomala-Reyes em Cloud Foundry e IBM Bluemix
+Transcricao
+Introdução
+IBM Bluemix é a oferta de nuvem mais recente da IBM. Permite que as organizações e os desenvolvedores criem, implementem e gerenciem aplicativos na nuvem de maneira fácil e rápida. O Bluemix é uma implementação da Arquitetura de Nuvem Aberta da IBM baseada em Cloud Foundry, uma plataforma como serviço (PaaS) de código aberto. O Bluemix oferece serviços em nível empresarial que podem ser facilmente integrados aos seus aplicativos de nuvem sem que seja necessário saber como instalá-los ou configurá-los. Este artigo oferece uma descrição de alto nível sobre o Cloud Foundry e o IBM Bluemix e define as características e os serviços que fazem parte do Bluemix e que o tornam uma plataforma como serviço muito atraente para o mercado atual.
+O que é Cloud Foundry?
+Cloud Foundry é uma plataforma como serviço (PaaS) de código aberto que permite criar e implementar aplicativos rapidamente na nuvem. Devido às suas raízes de código aberto, o Cloud Foundry não é específico para o provedor e não o limita a softwares de propriedade intelectual ou infraestrutura de nuvem. O Cloud Foundry extrai a infraestrutura implícita da nuvem para operar a nuvem, permitindo se concentrar no desenvolvimento de aplicativos da nuvem. O melhor do Cloud Foundry é que permite escolher. Os desenvolvedores e as organizações podem escolher:
+Marcos de Desenvolvimento: O Cloud Foundry oferece suporte ao código Java™, Spring, Ruby, Node.js e marcos personalizados.
+Serviços de Aplicativos: O Cloud Foundry oferece suporte para MySQL, MongoDB, PostgreSQL, Redis, RabbitMQ e serviços feitos sob medida.
+Nuvens: Os desenvolvedores e as organizações podem escolher entre operar o Cloud Foundry em nuvens Públicas, Privadas, VMWare e baseadas em OpenStack.
+A capacidade do Cloud Foundry oferecer possibilidade de escolha é dada por meio dos buildpacks, uma forma conveniente de empacotamento de frameworks e tempos de execução. Os buildpacks podem estar baseados na comunidade, serem desenvolvidos sob medida ou do zero. Em outras palavras, se você não encontrar um framework ou um buildpack de serviço que se adapte às suas necessidades, pode modificar um buildpack existente ou criar o seu próprio. Na utilização de buildpacks, as empresas podem oferecer serviços em nível empresarial como a oferta de nuvem do Bluemix.
+O que é IBM Bluemix?
+IBM Bluemix é uma implementação da Arquitectura de Nuvem Aberta da IBM, baseada em Cloud Foundry, que permite criar, implementar e gerenciar rapidamente seus aplicativos na nuvem. Como o Bluemix está baseado em Cloud Foundry, é possível aproveitar o ecossistema de frameworks e serviços de tempo de execução em crescimento. Além de proporcionar frameworks e serviços adicionais, o Bluemix fornece um painel para que você crie, visualize e gerencie seus aplicativos e serviços, bem como monitorar o uso dos recursos do seu aplicativo. O painel do Bluemix também oferece a possibilidade de gerenciar organizações, espaços e acesso do usuário.
+O Bluemix oferece acesso aos serviços entregues por meio do Cloud Foundry e melhora a coleção de serviços com os seguintes serviços da IBM:
